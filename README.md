@@ -1,4 +1,7 @@
 Probabilistic Programming and Bayesian Methods for Hackers 
+
+I have created a new branch called "sandbox" in this fork. I intend to use this branch when I am playing in the notebooks. I'll keep the master branch of this fork clean so that I can use it to make contributions back to the original project.
+ 
 ========
 ## *Using Python and PyMC*
 
